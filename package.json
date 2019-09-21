@@ -1,9 +1,9 @@
 {
-  "name": "@oclif/parser",
+  "name": "@rizzlesauce/oclif-parser",
   "description": "arg and flag parser for oclif",
   "version": "3.8.4",
   "author": "Jeff Dickey @jdxcode",
-  "bugs": "https://github.com/oclif/parser/issues",
+  "bugs": "https://github.com/rizzlesauce/oclif-parser/issues",
   "dependencies": {
     "@oclif/linewrap": "^1.0.0",
     "chalk": "^2.4.2",
@@ -33,13 +33,13 @@
   "files": [
     "/lib"
   ],
-  "homepage": "https://github.com/oclif/parser",
+  "homepage": "https://github.com/rizzlesauce/oclif-parser",
   "keywords": [
     "oclif"
   ],
   "license": "MIT",
   "main": "lib/index.js",
-  "repository": "oclif/parser",
+  "repository": "rizzlesauce/oclif-parser",
   "scripts": {
     "build": "rm -rf lib && tsc",
     "lint": "yarn run build && eslint . && tsc -p test --noEmit && tslint -p test",
