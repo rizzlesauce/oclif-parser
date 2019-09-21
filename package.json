@@ -1,7 +1,7 @@
 {
   "name": "@rizzlesauce/oclif-parser",
   "description": "arg and flag parser for oclif",
-  "version": "3.8.4",
+  "version": "3.8.5-rossa.1",
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/rizzlesauce/oclif-parser/issues",
   "dependencies": {
